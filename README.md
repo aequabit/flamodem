@@ -2,7 +2,7 @@
 
 ## Server Setup
 - Make sure PHP is installed on your server (tested on PHP 8.4.5).
-- Copy `flamodem.config.php.example` to `flamodem.config.php`, adjust the configuration options and put it into your desired upload directory. Copy `index.php` as well.
+- Copy `flamodem.config.example.php` to `flamodem.config.php`, adjust the configuration options and put it into your desired upload directory. Copy `index.php` as well.
 - Make sure the upload directory is writable by your web server.
 
 ## Client setup
